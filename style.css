@@ -1,0 +1,38 @@
+.heading{
+width:100%;
+margin :0px;
+font-size: 25px;
+color: brown;
+}
+
+.note{
+
+    font-size: 20px;
+    color:black;
+
+}
+body{
+    background-size: cover;
+}
+
+.speed{
+    float:left;
+}
+
+.volume{
+    float:right;
+}
+
+.disk{
+    font-size: 20px;
+    margin:50px ;
+}
+
+.diskImg{
+    width:200px;
+    border-radius: 100px;
+}
+
+canvas{
+border:1px solid white;
+}
