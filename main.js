@@ -49,7 +49,7 @@ function gotPoses(result) {
     }
 }
 
-function play() {
+function name() {
     song.play();
     song.setVolume(1);
     song.rate(1);
